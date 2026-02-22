@@ -1,0 +1,19 @@
+Grandes modelos multimodales como Gemini 3 han sido lanzados, mejorando la comprensión y creación de texto, imágenes y video en un solo sistema.
+
+Competencia feroz entre las grandes empresas (Google, OpenAI, AWS, Mistral) ha impulsado nuevos modelos con diferentes enfoques de rendimiento y eficiencia.
+
+Plataformas de desarrollo de agentes inteligentes, como Antigravity de Google, permiten construir sistemas de IA que pueden actuar y planificar de forma más autónoma.
+
+Apple Intelligence y mejoras en asistentes como Copilot de Microsoft buscan integrar IA profundamente en dispositivos y productividad cotidiana.
+
+La IA generativa continúa expandiéndose no solo para texto e imágenes, sino también para video, audio y tareas complejas de negocio.
+
+El uso de IA en empresas y servicios digitales sigue aumentando de forma global, con millones de personas utilizándola cada mes.
+
+La comunidad científica y expertos advierten sobre riesgos y falta de regulación global efectiva frente al rápido avance tecnológico.
+
+Se están explorando nuevos modelos de lenguaje y razonamiento más eficientes, así como variantes orientadas a tareas específicas.
+
+Proyectos con IA para automatización y tareas empresariales complejas han ganado terreno, transformando procesos como atención, análisis de datos y toma de decisiones.
+
+La carrera por mejorar capacidades lingüísticas, multimodales y autónomas continúa, con anuncios frecuentes de actualizaciones y nuevas arquitecturas.
